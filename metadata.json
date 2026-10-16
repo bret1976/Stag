@@ -1,0 +1,6 @@
+{
+  "name": "STAGFORM — Independent Creative Digital Studio",
+  "description": "An independent creative digital studio creating bold identities, interactive websites, motion design, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
